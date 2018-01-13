@@ -1,0 +1,3 @@
+1525434594
+top.lists_97fc75ce9e8cf452
+a:3:{s:9:"headItems";a:2:{i:0;s:5:"Title";i:1;s:8:"Contacts";}s:9:"bodyItems";a:1:{i:0;a:2:{i:0;a:3:{s:5:"value";s:11:"BNI_Members";s:4:"type";s:4:"link";s:4:"link";s:35:"/mautic/index.php/s/segments/edit/6";}i:1;a:3:{s:5:"value";s:2:"61";s:4:"type";s:4:"link";s:4:"link";s:56:"/mautic/index.php/s/contacts?search=segment%3Abnimembers";}}}s:3:"raw";a:1:{i:0;a:4:{s:5:"leads";s:2:"61";s:2:"id";s:1:"6";s:4:"name";s:11:"BNI_Members";s:5:"alias";s:10:"bnimembers";}}}

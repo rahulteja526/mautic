@@ -1,0 +1,1 @@
+{"error":false,"message":"mautic.core.updater.update.available","version":"2.12.1","announcement":"https:\/\/www.mautic.org\/topic\/2-12-1-released\/","package":"https:\/\/updates.mautic.org\/index.php?option=com_mauticdownload&task=downloadPackage&id=59","checkedTime":1515588807,"stability":"stable"}

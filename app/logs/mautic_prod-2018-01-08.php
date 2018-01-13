@@ -1,0 +1,6 @@
+[2018-01-08 04:20:05] mautic.WARNING: IP LOOKUP: The file "/var/www/html/mautic/app/cache/prod/../ip_data/GeoLite2-City.mmdb" does not exist or is not readable. [] []
+[2018-01-08 04:49:00] mautic.WARNING: IP LOOKUP: The file "/var/www/html/mautic/app/cache/prod/../ip_data/GeoLite2-City.mmdb" does not exist or is not readable. [] []
+[2018-01-08 17:59:12] mautic.WARNING: IP LOOKUP: The file "/var/www/html/mautic/app/cache/prod/../ip_data/GeoLite2-City.mmdb" does not exist or is not readable. [] []
+[2018-01-08 22:02:51] mautic.WARNING: IP LOOKUP: The file "/var/www/html/mautic/app/cache/prod/../ip_data/GeoLite2-City.mmdb" does not exist or is not readable. [] []
+[2018-01-08 23:26:40] mautic.WARNING: IP LOOKUP: The file "/var/www/html/mautic/app/cache/prod/../ip_data/GeoLite2-City.mmdb" does not exist or is not readable. [] []
+[2018-01-08 23:26:57] mautic.WARNING: IP LOOKUP: The file "/var/www/html/mautic/app/cache/prod/../ip_data/GeoLite2-City.mmdb" does not exist or is not readable. [] []
